@@ -71,18 +71,6 @@ A custom Unix shell with 20+ system calls, pipes, and I/O redirection, plus a Mu
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelPampam&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelPampam" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPampam&layout=compact" height="165" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
