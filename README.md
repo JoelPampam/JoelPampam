@@ -15,7 +15,7 @@
 - 🔬 Currently a **Machine Learning Intern** researching Graph Neural Networks for multi-agent systems, integrated with NVIDIA Isaac Sim
 - 🧭 Previously a **Research Assistant** working on time-series shapelet analysis using DSP techniques
 - ⚙️ Passionate about embedded systems, digital logic design, and low-level systems programming
-- 🏆 Dean's List (5x) | Presidential List | Leadership Award, Visible Community Dallas
+- 🏆 Dean's List (5x) | Presidential List | Leadership Award: Visible Community Dallas
 
 ---
 
