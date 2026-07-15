@@ -79,4 +79,3 @@ A custom Unix shell with 20+ system calls, pipes, and I/O redirection, plus a Mu
   <a href="mailto:Joelpampam24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/JoelPampam">JoelPampam</a></i></p>
