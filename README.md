@@ -29,10 +29,6 @@ Firmware on a TM4C microcontroller emulating a 16-key IR remote, with custom rec
 A half-precision floating-point adder/subtractor built in SystemVerilog on a DE10-Lite FPGA, complete with a HEX keypad input pipeline and real-time hex display output.
 `SystemVerilog` `FPGA` `Digital Logic`
 
-**🖥️ [Operating System Development (xv6)](https://github.com/JoelPampam)**
-A custom Unix shell with 20+ system calls, pipes, and I/O redirection, plus a Multi-Level Feedback Queue scheduler and modified kernel subsystems — reduced command latency 15% in QEMU tests.
-`C` `Unix` `QEMU` `xv6` `Azure VM`
-
 ---
 
 ### 🛠️ Tech Stack
